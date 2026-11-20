@@ -1,0 +1,13 @@
+# Credenciales y configuración privada
+.env
+.env.*
+!.env.example
+
+# Entorno virtual de Python
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+# Configuración local de Visual Studio Code
+.vscode/
